@@ -1,7 +1,11 @@
-Hi 👋, I'm Kunal Prajapati
+
+
+# Hi 👋, I'm Kunal Prajapati
+
 🌱 I’m currently learning Web Development
 
-# instagramClone
+Instagram Clone 
+
 Instagram Clone made using HTML CSS &amp; TAILWIND
 
 
