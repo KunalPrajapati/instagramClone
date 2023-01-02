@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Web Development
 
-Instagram Clone 
+
 
 Instagram Clone made using HTML CSS &amp; TAILWIND
 
